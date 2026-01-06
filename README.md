@@ -7,17 +7,19 @@ This project is developed as an academic and resume-level project to demonstrate
 
 🚀 Features
 
-👨‍🎓 Student Module                                                                                                                                                            -Secure student login                                                                                                                                                        
--View only own academic results                                                                                                                                              -Download result for personal use                                                                                                                                            
+👨‍🎓 Student Module                                                                                                                                                         
+-Secure student login                                                                                                                                                        
+-View only own academic results                                                                                                                                            
+-Download result for personal use                                                                                                                                            
 -Subject-wise marks display                              
 
-👩‍🏫 Teacher Module                                                                                                                                                            -Secure teacher login                                                                                                                                                        
--Add and update marks for assigned subjects only                                                                                                                             
+👩‍🏫 Teacher Module                                                                                                                                                          
+-Secure teacher login                                                                                                                                                        
+-Add and update marks for assigned subjects only                                                                                                                            
 -View students enrolled under their subject
 
-🧑‍💼 Admin Module
--Add, edit, and delete:
-  -Students
+🧑‍💼 Admin Module                                                                                                                                                            
+-Add, edit, and delete:                                                                                                                                                        -Students
   -Teachers
   -Subjects
   -Departments
@@ -116,27 +118,26 @@ student-result-management-system/
 
 
 🗄️ Dataset Information
-⚠️ Important Notice
-This project uses dummy data only for demonstration and testing purposes.
+⚠️ Important Notice                                                                                                                                                          
+This project uses dummy data only for demonstration and testing purposes.                                                                                                    
 No real student or institutional data is included.
 
 🎯 Learning Outcomes
--Role-based authentication
--Database design and CRUD operations
--Backend–frontend integration
--Academic workflow implementation
+-Role-based authentication                                                                                                                                                  
+-Database design and CRUD operations                                                                                                                                         -Backend–frontend integration                                                                                                                                                
+-Academic workflow implementation                                                                                                                                            
 -Clean project documentation
 
-🚀 Future Enhancements
--GPA / CGPA calculation
--Result analytics dashboard
--Bulk marks upload
+🚀 Future Enhancements                                                                                                                                                       
+-GPA / CGPA calculation                                                                                                                                                      
+-Result analytics dashboard                                                                                                                                                  
+-Bulk marks upload                                                                                                                                                           
 -Improved authentication security
 
-📌 Disclaimer
+📌 Disclaimer                                                                                                                                                                
 This project is developed strictly for educational purposes and does not represent an official academic system.
 
-👩‍💻 Author
-Vaishnavi Bhatale
-E&TC Engineering Student
+👩‍💻 Author                                                                                                                                                                    
+Vaishnavi Bhatale                                                                                                                                                            
+E&TC Engineering Student                                                                                                                                                     
 Pune Institute of Computer Technology (PICT)

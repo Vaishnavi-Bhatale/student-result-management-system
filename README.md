@@ -64,11 +64,15 @@ User (Student / Teacher / Admin)
 student-result-management-system/
 
 │
+
 ├── admin_dashboard.php
 
 ├── admin_login.php
+
 ├── add_department.php
+
 ├── add_result.php
+
 ├── add_student.php
 ├── add_subject.php
 ├── add_teacher.php

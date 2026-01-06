@@ -64,11 +64,9 @@ student-result-management-system/
 │                                                                                                                                                                            
 ├── admin_dashboard.php                                                                                                                                                      
 ├── admin_login.php
-
+```
 ├── add_department.php
-
 ├── add_result.php
-
 ├── add_student.php
 
 ├── add_subject.php
@@ -112,7 +110,7 @@ student-result-management-system/
 ├── teacher_login.php
 
 └── README.md
-
+```
 
 🗄️ Dataset Information
 ⚠️ Important Notice                                                                                                                                                          

@@ -8,14 +8,14 @@ This project is developed as an academic and resume-level project to demonstrate
 🚀 Features
 
 👨‍🎓 Student Module                                                                                                                                                            
--Secure student login
--View only own academic results
--Download result for personal use
--Subject-wise marks display
+-Secure student login                                                                                                                                                        
+-View only own academic results                                                                                                                                              
+-Download result for personal use                                                                                                                                            
+-Subject-wise marks display                              
 
-👩‍🏫 Teacher Module
--Secure teacher login
--Add and update marks for assigned subjects only
+👩‍🏫 Teacher Module                                                                                                                                                            
+-Secure teacher login                                                                                                                                                        
+-Add and update marks for assigned subjects only                                                                                                                             
 -View students enrolled under their subject
 
 🧑‍💼 Admin Module

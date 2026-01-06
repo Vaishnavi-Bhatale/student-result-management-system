@@ -60,12 +60,9 @@ User (Student / Teacher / Admin)
         Database
 
 📁 Project Structure
-student-result-management-system/
-
-│
-
-├── admin_dashboard.php
-
+student-result-management-system/                                                                                                                                            
+│                                                                                                                                                                            
+├── admin_dashboard.php                                                                                                                                                      
 ├── admin_login.php
 
 ├── add_department.php

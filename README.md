@@ -1,7 +1,7 @@
 🎓 Student Result Management System
 
 A role-based web application designed to manage academic results efficiently.
-The system provides separate login access for Students, Teachers, and Admin, ensuring secure and controlled operations.
+The system provides separate login access for Students, Teachers, and Admin, ensuring secure and controlled operations. 
 
 This project is developed as an academic and resume-level project to demonstrate backend and database management concepts.
 

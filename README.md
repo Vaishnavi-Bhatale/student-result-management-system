@@ -74,26 +74,47 @@ student-result-management-system/
 ├── add_result.php
 
 ├── add_student.php
+
 ├── add_subject.php
+
 ├── add_teacher.php
+
 ├── db_connect.php
+
 ├── delete_department.php
+
 ├── delete_result.php
+
 ├── delete_student.php
+
 ├── delete_subject.php
+
 ├── delete_teacher.php
+
 ├── edit_department.php
+
 ├── edit_result.php
+
 ├── edit_student.php
+
 ├── edit_subject.php
+
 ├── edit_teacher.php
+
 ├── index.php
+
 ├── logout.php
+
 ├── student_dashboard.php
+
 ├── student_login.php
+
 ├── student_result.sql
+
 ├── teacher_dashboard.php
+
 ├── teacher_login.php
+
 └── README.md
 
 

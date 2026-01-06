@@ -7,7 +7,7 @@ This project is developed as an academic and resume-level project to demonstrate
 
 🚀 Features
 
-👨‍🎓 Student Module
+👨‍🎓 Student Module                                                                                                                                                            
 -Secure student login
 -View only own academic results
 -Download result for personal use

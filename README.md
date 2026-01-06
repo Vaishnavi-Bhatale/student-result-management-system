@@ -19,16 +19,17 @@ This project is developed as an academic and resume-level project to demonstrate
 -View students enrolled under their subject
 
 🧑‍💼 Admin Module                                                                                                                                                            
--Add, edit, and delete:                                                                                                                                                        -Students
-  -Teachers
-  -Subjects
-  -Departments
+-Add, edit, and delete:                                                                                                                                                    
+   -Students                                                                                                                                                                 
+   -Teachers                                                                                                                                                                 
+   -Subjects                                                                                                                                                                
+   -Departments
 
--Assign:
-  -Subjects to teachers
-  -Students to departments
+-Assign:                                                                                                                                                                    
+   -Subjects to teachers                                                                                                                                                        -Students to departments
 
--Delete:                                                                                                                                                                        -Department records                                                                                                                                                     
+-Delete:                                                                                                                                                                    
+   -Department records                                                                                                                                                     
    -Individual student results                                                                                                                                             
    -Student, teacher, and subject records                                                                                                                                   
    -Edit all academic data when required

@@ -28,11 +28,10 @@ This project is developed as an academic and resume-level project to demonstrate
   -Subjects to teachers
   -Students to departments
 
--Delete:
-  -Department records
-  -Individual student results
-  -Student, teacher, and subject records
-  -Edit all academic data when required
+-Delete:                                                                                                                                                                        -Department records                                                                                                                                                     
+   -Individual student results                                                                                                                                             
+   -Student, teacher, and subject records                                                                                                                                   
+   -Edit all academic data when required
 
 🔐 Role-Based Access Control
 | Role    | Access                                 |
@@ -42,10 +41,10 @@ This project is developed as an academic and resume-level project to demonstrate
 | Admin   | Full system access                     |
 
 
-🛠️ Tech Stack
--Frontend: HTML, CSS, JavaScript
--Backend: PHP
--Database: MySQL 
+🛠️ Tech Stack                                                                                                                                                                
+-Frontend: HTML, CSS, JavaScript                                                                                                                                             
+-Backend: PHP                                                                                                                                                                
+-Database: MySQL                                                                                                                                                             
 -Version Control: Git & GitHub
 
 🧠 System Architecture

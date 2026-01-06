@@ -62,6 +62,7 @@ User (Student / Teacher / Admin)
 
 📁 Project Structure
 student-result-management-system/
+
 │
 ├── admin_dashboard.php
 

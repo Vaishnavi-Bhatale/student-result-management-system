@@ -173,7 +173,7 @@ This project is developed strictly for educational purposes and does not represe
 
 ## 🔗 Links
 
-- **GitHub Repository:** (Add your repo link here)  
+- **GitHub Repository:** (https://github.com/Vaishnavi-Bhatale/student-result-management-system)
 - **Live Demo:** (Add deployed link here, if available)  
 
 ---
